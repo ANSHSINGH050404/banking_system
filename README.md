@@ -1,15 +1,25 @@
 # banking_system
 
-To install dependencies:
+Banking system demo with accounts, transfers, and core banking flows.
+
+## Stack
+
+TypeScript
+
+## Getting started
 
 ```bash
+git clone https://github.com/ANSHSINGH050404/banking_system.git
+cd banking_system
 bun install
+bun run dev   # or: bun run start
 ```
 
-To run:
+## Repository
 
-```bash
-bun run index.ts
-```
+- **GitHub:** https://github.com/ANSHSINGH050404/banking_system
+- **Author:** [ANSHSINGH050404](https://github.com/ANSHSINGH050404)
 
-This project was created using `bun init` in bun v1.3.5. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+## License
+
+See repository for license details (or add an MIT license if this is open source).
